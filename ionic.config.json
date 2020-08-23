@@ -1,0 +1,7 @@
+{
+  "name": "aula-app-tornese-react",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
